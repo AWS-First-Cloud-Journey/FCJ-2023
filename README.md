@@ -122,7 +122,7 @@
 	- **Buổi 5:** Dịch vụ bảo mật trong AWS, **Identity and access Management**
 - **Phần 3.2:** làm 1 workshop sau khi hoàn tất module 5
 
-**Phần 3.3:** học tiếp các module còn lại
+- **Phần 3.3:** học tiếp các module còn lại
 
 - **Buổi 6:** Dịch vụ cơ sở dữ liệu trong AWS, **RDS, Redshift, DynamoDB**
 - **Buổi 7:** Dịch vụ Datalake trong AWS, **Glue, Athena, Quick Sight**
