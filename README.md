@@ -101,7 +101,7 @@
   5. Dịch chuyển sang EC2
 ---
 
-### 1.5 Thử sức với 1 Workshop
+### 1.5 Thử sức với 2 Workshop
 
 - Các bạn có thể tham khảo qua 1 Workshop mẫu: [Workshop](https://drive.google.com/drive/folders/17Jcht8IffRSIBWWCd0XR8YGUWCgiPFwo?usp=sharing)
 
@@ -117,18 +117,20 @@
 - Học và thi Practitioner: [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials?scr=detail) 
 
 ## 3. Mission 3
-- Tham gia và hoàn tất khóa học **Cloud Computing Architect**
-- Nội dung khóa học **Cloud Computing Architect**
+- **Phần 3.1:** Tham gia và hoàn tất Module 4 và 5
 	- **Buổi 4:** Dịch vụ lưu trữ trong AWS, **S3, EBS, EFS, FSx, Storage GW**
 	- **Buổi 5:** Dịch vụ bảo mật trong AWS, **Identity and access Management**
+- **Phần 3.2:** làm 1 workshop sau khi hoàn tất module 5
+
+**Phần 3.3:** học tiếp các module còn lại
 	- **Buổi 6:** Dịch vụ cơ sở dữ liệu trong AWS, **RDS, Redshift, DynamoDB**
 	- **Buổi 7:** Dịch vụ Datalake trong AWS, **Glue, Athena, Quick Sight**
 	- **Buổi 8:** Dịch vụ ứng dụng trong AWS, **SQS, SNS, API GW, Kinesis**
 	- **Buổi 9:** Dịch vụ về **tự động hóa / DevOps** trong AWS
 	- **Buổi 10:** Bài trình bày cuối khóa. Kiểm tra kiến thức chung về **bảo mật, tối ưu chi phí, các công cụ xây dựng kiến trúc...**
 	- **Buổi 11:** Bài thực hành cuối khóa. 
-
-- Học và thi **SA Associate**
+- **Phần 3.4**: Xây dựng 2 workshop
+- **Phần 3.5**: Học và thi **SA Associate**
 
 ## 4. Mission 4
 
