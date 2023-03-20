@@ -123,12 +123,14 @@
 - **Phần 3.2:** làm 1 workshop sau khi hoàn tất module 5
 
 **Phần 3.3:** học tiếp các module còn lại
+
 	- **Buổi 6:** Dịch vụ cơ sở dữ liệu trong AWS, **RDS, Redshift, DynamoDB**
 	- **Buổi 7:** Dịch vụ Datalake trong AWS, **Glue, Athena, Quick Sight**
 	- **Buổi 8:** Dịch vụ ứng dụng trong AWS, **SQS, SNS, API GW, Kinesis**
 	- **Buổi 9:** Dịch vụ về **tự động hóa / DevOps** trong AWS
 	- **Buổi 10:** Bài trình bày cuối khóa. Kiểm tra kiến thức chung về **bảo mật, tối ưu chi phí, các công cụ xây dựng kiến trúc...**
 	- **Buổi 11:** Bài thực hành cuối khóa. 
+
 - **Phần 3.4**: Xây dựng 2 workshop
 - **Phần 3.5**: Học và thi **SA Associate**
 
