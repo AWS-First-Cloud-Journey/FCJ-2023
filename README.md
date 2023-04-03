@@ -2,6 +2,8 @@
 
 # Attitude -> Ability -> Achievement
 
+## Daily sync / checkup on whatsapp 10 minutes
+
 ## 1. Mission 1
 
 ### 1.1 Tạo AWS account
